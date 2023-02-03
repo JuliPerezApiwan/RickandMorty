@@ -1,0 +1,76 @@
+.card button {
+    background-color: rgb(188, 11, 11);
+    border-radius: 70px;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-size: 16px;
+    float: right;
+    cursor:pointer;
+}
+.card button:hover {
+  background-color: rgba(255, 255, 255, 0.807);
+  color: black;
+  }
+
+  .card {
+    background-color: rgba(252, 252, 252, 0.852);
+    margin: 10px;
+    margin-top: 5px;
+    border: black 2px solid;
+    border-radius: 10px;
+    display:inline-table;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+  }
+
+
+  h2, h3 {
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(0, 0, 0, 0.907);
+    border-radius: 10px;
+    color: #4CAF50;
+    padding: 3px 7px;
+
+  }
+  h2 {
+    font-size: 20px;
+    width: 250px;
+  }
+
+  h3 {
+    
+    width: 300px;
+    font-size: 16px;
+  }
+
+.card img {
+    border: black 2px solid;
+    border-radius: 10px;
+    margin-left: 5px;
+  }
+
+ .link {
+    text-decoration: none;
+  }
+ 
+ .link h2 {
+  color: white;
+ }
+
+ .favorite button{
+  width: 60px;
+  height: 40px;
+  font-size: 25px;
+  margin-bottom: -20px;
+  margin-left: 30px;
+  
+ 
+ }
+
+
